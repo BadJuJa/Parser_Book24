@@ -1,7 +1,7 @@
 
 # List of genres. Currently available genres: detectives, fiction, horrors, fantasy, romance, action
-# ['detectives', 'fiction', 'horrors', 'fantasy', 'romance', 'action']
-GENRES = ['horrors']
+# by default: ['detectives', 'fiction', 'horrors', 'fantasy', 'romance', 'action']
+GENRES = ['detectives', 'fiction', 'horrors', 'fantasy', 'romance', 'action']
 
 # Name of a file containing parsing results (books by default)
 OUTPUT_FILE_NAME = 'books'
